@@ -1,5 +1,5 @@
 # Paint
-A simple paint app.
+A simple paint app made using the Flutter framework.
 
 # Example 🔥
 <p align="center">
